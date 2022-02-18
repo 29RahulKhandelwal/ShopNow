@@ -1,4 +1,6 @@
 import React from "react";
+import data from "../data";
+import Product from "./Product";
 
 function HomeScreen(){
     return (

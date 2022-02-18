@@ -7,7 +7,7 @@ const data={
             image:'./img/iphone13.jpg',
             price:74999,
             brand:'Iphone',
-            rating:4.7,
+            rating:4.2,
             numReviews:10,
             description:'Iphone 13 latest mobile available in the market.'
         },
@@ -18,7 +18,7 @@ const data={
             image:'./img/adidas-shoes.jpg',
             price:'1756',
             brand:'Adidas',
-            rating:4.8,
+            rating:4,
             numReviews:8,
             description:'Top Selling Product'
         },
@@ -40,7 +40,7 @@ const data={
             image:'./img/Headphone.jpg',
             price:4999,
             brand:'JBL',
-            rating:4.4,
+            rating:4.5,
             numReviews:7,
             description:'Headphone with so many features.'
         },
@@ -51,7 +51,7 @@ const data={
             image:'./img/AppleMacbook.jpg',
             price:187990,
             brand:'Apple',
-            rating:4.8,
+            rating:4.2,
             numReviews:15,
             description:'Apple Macbook Pro'
         },

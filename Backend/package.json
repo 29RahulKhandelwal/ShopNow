@@ -1,0 +1,23 @@
+{
+  "name": "shopnow",
+  "type":"module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/29RahulKhandelwal/ShopNow.git"
+  },
+  "author": "Rahul Khandelwal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/29RahulKhandelwal/ShopNow/issues"
+  },
+  "homepage": "https://github.com/29RahulKhandelwal/ShopNow#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}

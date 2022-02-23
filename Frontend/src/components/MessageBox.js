@@ -1,9 +1,10 @@
 import React from "react";
 
-function MessageBox(){
+function MessageBox(props){
     return (
-        <div>
-            
+        <div className="{`alert alert-${props.variant || 'info'}`}">
+            {props.children}
+            {/* 14:00 */}
         </div>
     )
 }

@@ -28,7 +28,7 @@ function HomeScreen() {
             {loading ? (
                 <LoadingBox></LoadingBox>
             ) : error ? (
-                <MessageBox>{error}</MessageBox>
+                <MessageBox variant="danger">{error}</MessageBox>
             ) : (
                 <div className="row center">
                 {
